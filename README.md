@@ -14,6 +14,8 @@ Change into repository directory
 Run the script with Python 3 installed
 ``` python tictactoe.py ```
 
+![Tic Tac Toe](https://github.com/tuckerweibell/terminal-tic-tac-toe/blob/main/game.png)
+
 ### License
 This project is licensed under MIT (See [LICENSE](https://github.com/tuckerweibell/terminal-tic-tac-toe/blob/main/LICENSE)).
 
