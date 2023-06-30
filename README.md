@@ -1,4 +1,4 @@
-# Command Line TicTacToe
+# Command Line Tic Tac Toe
 
 ### Summary
 This is a command line tic tac toe game written in Python. This script will run on any operating system that supports Python 3. Follow instructions below to install and begin playing game.
